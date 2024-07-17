@@ -68,9 +68,3 @@ For more detailed information, refer to the official WunderGraph documentation:
 - [WunderGraph Documentation](https://wundergraph.com/docs)
 
 Explore the docs to gain a deeper understanding of WunderGraph's capabilities and how to utilize them effectively in your projects.
-
----
-
-By following the steps and leveraging the features provided in this demo, you can efficiently manage your GraphQL Microservices using WunderGraph and Apollo Federation. If you have any questions or need further assistance, feel free to reach out via the [issue tracker](https://github.com/yourusername/wundergraph-federation-demo/issues).
-
-Happy coding!
